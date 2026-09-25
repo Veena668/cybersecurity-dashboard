@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+pymysql>=1.1.0
+sqlalchemy>=2.0.0
+bcrypt>=4.1.0
+requests>=2.31.0
+zxcvbn>=4.4.0
+plotly>=5.20.0
+streamlit-option-menu>=0.3.12
+cryptography>=42.0.0
